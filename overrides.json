@@ -1,0 +1,4 @@
+{
+  "description": "Put all domains you wish to exclude from the rule list",
+  "domains": ["assets.dwell.com", "images.dwell.com"]
+}
